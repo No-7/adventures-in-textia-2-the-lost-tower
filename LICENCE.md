@@ -1,9 +1,9 @@
 MOZILLA PUBLIC LICENSE
-------------------------------------
+======
                                 Version 1.1
 
 
-1. Definitions.
+##1. Definitions.
 
      1.0.1. "Commercial Use" means distribution or otherwise making the
      Covered Code available to a third party.
@@ -79,7 +79,7 @@ MOZILLA PUBLIC LICENSE
      (50%) of the outstanding shares or beneficial ownership of such
      entity.
 
-2. Source Code License.
+##2. Source Code License.
 
      2.1. The Initial Developer Grant.
      The Initial Developer hereby grants You a world-wide, royalty-free,
@@ -140,7 +140,7 @@ MOZILLA PUBLIC LICENSE
           infringed by Covered Code in the absence of Modifications made by
           that Contributor.
 
-3. Distribution Obligations.
+##3. Distribution Obligations.
 
      3.1. Application of License.
      The Modifications which You create or to which You contribute are
@@ -256,7 +256,7 @@ MOZILLA PUBLIC LICENSE
      Work as a single product. In such a case, You must make sure the
      requirements of this License are fulfilled for the Covered Code.
 
-4. Inability to Comply Due to Statute or Regulation.
+##4. Inability to Comply Due to Statute or Regulation.
 
      If it is impossible for You to comply with any of the terms of this
      License with respect to some or all of the Covered Code due to
@@ -269,12 +269,12 @@ MOZILLA PUBLIC LICENSE
      sufficiently detailed for a recipient of ordinary skill to be able to
      understand it.
 
-5. Application of this License.
+##5. Application of this License.
 
      This License applies to code to which the Initial Developer has
      attached the notice in Exhibit A and to related Covered Code.
 
-6. Versions of the License.
+##6. Versions of the License.
 
      6.1. New Versions.
      Netscape Communications Corporation ("Netscape") may publish revised
