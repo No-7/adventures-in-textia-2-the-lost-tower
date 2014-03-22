@@ -19,27 +19,32 @@ After thwarting the tower's 6 bosses and obtaining each of their items, our Hero
 ##Boss abilities and stuff
 
 - Mr. Paint: paints enemies maybe, 
-- Giant Spider: Shoots webs,
-- Santa Claus: Throws presents and/or snowballs, 
+- Giant Spider: Shoots webs, climbs on ceiling, uses baby spiders
+- Santa Claus: Throws presents and/or snowballs, uses sleigh or reigndeer in some way
 - Cubix Rube: Flips gravity maybe, shoots pixels at hero,
 - REWG: Throws dynamite,zaps your with lightning, 
-- Nightmare: Maybe turns into the form of Drake the Duck-Dragon
-- Warlock: uses other bosses abilities and combines abilities maybe
+- Nightmare: turns into the form of Drake the Duck-Dragon, teleports
+- Warlock: uses other bosses abilities and combines abilities
 
 ##Common enemies
 
 - Paint Glob - found in Art Gallery
-- Portrait - found in Art Gallery
+- Haunted Portrait - found in Art Gallery
 - Spider - found in Dungeons
 - Dead Prisoner - found in Dungeons
+- Rat - found in Dungeons
 - Evil Elf - found in Freezer
 - Wolf - found in Freezer
+- Yeti - found in Freezer
 - Jigsaw Piece - found in Great Maze
 - Stone Golem - found in Great Maze
+- Archer - found in Great Maze
 - Mage - found in Tallest Steeple
 - Thunder Demon - found in Tallest Steeple
+- Ghost - found in Tallest Steeple
 - Glitch - found in Dream World
-- Optical Illusion - found in Dream World
+- Mirage - found in Dream World
+- Wisp - found in Dream World
 
 ##Midbosses
 
@@ -48,7 +53,7 @@ After thwarting the tower's 6 bosses and obtaining each of their items, our Hero
 - Freezer: Frosty the Snowman - throws snowballs, sings ear-bleeding music, etc.
 - Great Maze: Minotaur - pretty obvious what he does
 - The Tallest Steeple: Hack Mage - reference to Black Mage from Final Fantasy, his strongest attack restarts the battle, he looks like a computer nerd version of the black mage.
-- Dream World: Mirage - *info to be added later*
+- Dream World: Imaginary Friend - *info to be added later*
 
 
 
