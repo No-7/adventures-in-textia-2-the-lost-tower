@@ -1,4 +1,4 @@
-﻿#Adventures in Texia 2: The Lost Tower
+#Adventures in Texia 2: The Lost Tower
 
 ##Story
 
@@ -45,6 +45,7 @@ After thwarting the tower's 6 bosses and obtaining each of their items, our Hero
 - Glitch - found in Dream World
 - Mirage - found in Dream World
 - Wisp - found in Dream World
+- Reaper - found in *Tallest Steeple / Dream World / ???*
 
 ##Midbosses
 
@@ -55,5 +56,51 @@ After thwarting the tower's 6 bosses and obtaining each of their items, our Hero
 - The Tallest Steeple: Hack Mage - reference to Black Mage from Final Fantasy, his strongest attack restarts the battle, he looks like a computer nerd version of the black mage.
 - Dream World: Imaginary Friend - *info to be added later*
 
+## Level info
 
+###Art Gallery
+**Graphics:**
 
+- Artworks
+- Bright and happy
+- classical music (happy)
+
+**Dungeons:**
+
+- Filthy and moldy
+- Gloomy
+- Prison cells
+- Funeral music
+
+**Freezer**
+
+- Bluish- whiteish
+- Snow
+- Icicles
+- Winter music
+
+**Great Maze**
+
+- Ornate
+- Roman / Greek / Egytian
+- Ancient
+- Don't know what expects you.
+- Suspenseful music
+
+**The Tallest Steeple**
+
+- Old
+- Torture instruments
+- Haunted
+- Scary
+- Black magic
+- Creepy
+- Creepy music
+
+**Dream World**
+
+- Pastel colors
+- Light
+- Clouds, etc...
+- Dreamy music
+- Childish
